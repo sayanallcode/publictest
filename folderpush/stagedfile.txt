@@ -1,1 +1,2 @@
 staged text : staging
+My second commit
