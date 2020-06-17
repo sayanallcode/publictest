@@ -1,2 +1,3 @@
 staged text : staging
 My second commit
+My third commit
