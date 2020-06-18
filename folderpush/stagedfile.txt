@@ -3,3 +3,4 @@ My second commit
 My third commit
 My fourth commit
 My fifth commit
+My sixth commit from 1st branch branch2
